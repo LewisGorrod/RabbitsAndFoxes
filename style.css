@@ -1,0 +1,11 @@
+
+body {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+#canvas {
+    background-color: green;
+    width: 1500px;
+    height: 900px;
+}
